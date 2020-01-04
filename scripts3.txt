@@ -1,1 +1,7 @@
 fdsaf dsfsafsad
+# scripts for update2
+
+aaa
+bbb
+ccc
+ddd
